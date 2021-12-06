@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Gear
   - Obstacle
+  - TrueObstacle
+  - Variants
+  - Obstacle2
   layers:
   - Default
   - TransparentFX

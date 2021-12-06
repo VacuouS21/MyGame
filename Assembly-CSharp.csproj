@@ -55,14 +55,17 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Bolt 2D DinoRun VE1\Obstacle.cs" />
-    <Compile Include="Assets\Bolt 2D DinoRun VE1\PlayerController.cs" />
-    <Compile Include="Assets\Bolt 2D DinoRun VE1\Spawner.cs" />
-    <Compile Include="Assets\Bolt 2D DinoRun VE1\ScoreManagerCode.cs" />
-    <Compile Include="Assets\Bolt 2D DinoRun VE1\Destroyer.cs" />
-    <Compile Include="Assets\Bolt 2D DinoRun VE1\Point.cs" />
-    <Compile Include="Assets\Bolt 2D DinoRun VE1\Restart.cs" />
-    <Compile Include="Assets\Bolt 2D DinoRun VE1\Restart1.cs" />
+    <Compile Include="Assets\MyGame\Scripts\Obstacle.cs" />
+    <Compile Include="Assets\MyGame\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\MyGame\Scripts\Spawner.cs" />
+    <Compile Include="Assets\MyGame\Scripts\ScoreManagerCode.cs" />
+    <Compile Include="Assets\MyGame\Scripts\Destroyer.cs" />
+    <Compile Include="Assets\MyGame\Scripts\Point.cs" />
+    <Compile Include="Assets\MyGame\Scripts\Restart.cs" />
+    <Compile Include="Assets\MyGame\Scripts\RandomNumber.cs" />
+    <Compile Include="Assets\MyGame\Scripts\GlobalRandomNumber.cs" />
+    <Compile Include="Assets\MyGame\Scripts\DestrPlayer.cs" />
+    <Compile Include="Assets\MyGame\Scripts\BackGround\Movie.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
